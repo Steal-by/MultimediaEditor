@@ -19,7 +19,6 @@ namespace MultimediaEditor
             FileInfo info = new FileInfo(Url);
             file.Name = info.Name;
             file.Format = info.Extension;
-
             file.Url = Url;
 
             double Duration = 0;
