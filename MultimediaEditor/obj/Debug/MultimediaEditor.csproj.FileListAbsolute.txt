@@ -1,0 +1,17 @@
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\bin\Debug\MultimediaEditor.exe.config
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\bin\Debug\MultimediaEditor.exe
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\bin\Debug\MultimediaEditor.pdb
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.csproj.AssemblyReference.cache
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MainWindow.g.cs
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\App.g.cs
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor_MarkupCompile.cache
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor_MarkupCompile.lref
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MainWindow.baml
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.g.resources
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.Properties.Resources.resources
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.csproj.GenerateResource.cache
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.csproj.CoreCompileInputs.cache
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.exe
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.pdb
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\Interop.WMPLib.dll
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.csproj.ResolveComReference.cache
