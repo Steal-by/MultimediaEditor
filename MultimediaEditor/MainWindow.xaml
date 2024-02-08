@@ -7,7 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <StackPanel HorizontalAlignment="Left" Height="42" Margin="10,10,0,0" VerticalAlignment="Top" Width="772"/>
+        <StackPanel HorizontalAlignment="Left" Height="42" Margin="10,10,0,0" VerticalAlignment="Top" Width="772">
+            <Menu Height="45" Name ="TopPanel" >
+                <MenuItem/>
+                <MenuItem/>
+                <MenuItem/>
+                <MenuItem/>
+                <MenuItem/>
+                <MenuItem/>
+                <MenuItem Height="24" Width="105" Header="Микро"/>
+            </Menu>
+        </StackPanel>
+        <ComboBox HorizontalAlignment="Left" Margin="554,240,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button Content="RecordMicroBut" HorizontalAlignment="Left" Margin="498,110,0,0" VerticalAlignment="Top" Width="75" Click="RecordMicroBut_Click"/>
 
     </Grid>
 </Window>
