@@ -59,6 +59,8 @@ namespace MultimediaEditor
                             flag_mic = 1;
                             micro = new Microphone(this, url);
                             micro.StartRecord();
+                            if(flag_mic==10)
+                                item.IsChecked = false;
                         }
 
                     }

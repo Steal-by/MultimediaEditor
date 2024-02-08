@@ -62,9 +62,10 @@ namespace MultimediaEditor
 
                 waveIn.StartRecording();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-               // main.flag_mic = 10;
+                main.flag_mic = 10;
+
                 writer.Dispose();
                 System.IO.File.Delete(outputFilename);
                 MessageBox.Show("Микрофон не подключён");

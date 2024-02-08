@@ -52,3 +52,4 @@ D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\Multimed
 D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.csproj.CopyComplete
 D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.exe
 D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.pdb
+D:\newProj\MultimediaEditor\MultimediaEditor\MultimediaEditor\obj\Debug\MultimediaEditor.csproj.AssemblyReference.cache
